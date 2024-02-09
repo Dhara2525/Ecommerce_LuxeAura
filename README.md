@@ -1,4 +1,4 @@
-# developed by Dhara
+# E-Commerce Clothing Website 
 This repository contains the source code for an e-commerce website specialized in selling clothing online. Built with React and Redux, the website offers a user-friendly experience for browsing, selecting, and purchasing clothing online. 
 Here are the contents of the folder: 
   - actions: Stores functions that dispatch actions to reducers.
